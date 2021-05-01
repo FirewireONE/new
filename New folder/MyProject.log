@@ -1,0 +1,19 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4450 -DL -O11111114 -fo8 -N"C:\Users\Federico Fam\Desktop\FINAL\Codes\New folder\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Federico Fam\Desktop\FINAL\Codes\New folder\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\Federico Fam\Desktop\FINAL\Codes\New folder\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_D.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 747 [bytes], Available ROM: 16384 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject.c
+warning: 22	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	MyProject.c
+diagnostics: 380	123	Compiled Successfully	MyProject.c
+hint: 2	1164	Variable 'con1' has been eliminated by optimizer	MyProject.c
+hint: 9	1164	Variable 'contact_1' has been eliminated by optimizer	MyProject.c
+hint: 9	1164	Variable 'contact_2' has been eliminated by optimizer	MyProject.c
+hint: 9	1164	Variable 'contact_3' has been eliminated by optimizer	MyProject.c
+hint: 10	1164	Variable 'contact_4' has been eliminated by optimizer	MyProject.c
+hint: 10	1164	Variable 'contact_5' has been eliminated by optimizer	MyProject.c
+hint: 10	1164	Variable 'contact_6' has been eliminated by optimizer	MyProject.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+hint: 0	1144	Used RAM (bytes): 687 (92%)  Free RAM (bytes): 60 (8%)	Used RAM (bytes): 687 (92%)  Free RAM (bytes): 60 (8%)
+hint: 0	1144	Used ROM (bytes): 11874 (72%)  Free ROM (bytes): 4510 (28%)	Used ROM (bytes): 11874 (72%)  Free ROM (bytes): 4510 (28%)
+diagnostics: 0	125	Project Linked Successfully	MyProject.mcppi
+diagnostics: 0	128	Linked in 46 ms	 
+diagnostics: 0	129	Project 'MyProject.mcppi' completed: 218 ms	 
+diagnostics: 0	103	Finished successfully: 01 May 2021, 17:28:21	MyProject.mcppi
